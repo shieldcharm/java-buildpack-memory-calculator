@@ -10,7 +10,7 @@ Ginkgo is one of the dependencies we manage, so get Godep before starting work:
 ```shell
 go get -v github.com/cloudfoundry/java-buildpack-memory-calculator
 cd src/github.com/cloudfoundry/java-buildpack-memory-calculator
-
+random stuff
 go get -v github.com/tools/godep
 ```
 
