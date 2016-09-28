@@ -11,7 +11,7 @@ Ginkgo is one of the dependencies we manage, so get Godep before starting work:
 go get -v github.com/cloudfoundry/java-buildpack-memory-calculator
 cd src/github.com/cloudfoundry/java-buildpack-memory-calculator
 
-go get -v github.com/tools/godep
+go get -v github.com/tools/godep test
 ```
 
 (The `-v` options on `go get` are there so you can see what packages are compiled under the covers.)
